@@ -1,1 +1,1 @@
-# Prog2-project
+# Endless Runner
